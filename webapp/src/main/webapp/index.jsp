@@ -35,6 +35,8 @@
   <h1> learning ansible with docker </h1>
   
   <h1> this is ismail  </h1>
+  
+  removed syntax error in jenkins 
 
   
 </form>
