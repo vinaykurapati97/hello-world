@@ -34,7 +34,7 @@
    <h1> Thankyou, Happy Learning </h1>
   <h1> learning ansible with docker </h1>
   
-  <h1> this is ismail  </h1>
+  <h1> this is vinay  </h1>
   
   removed syntax error in jenkins 
 
