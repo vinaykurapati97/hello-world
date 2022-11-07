@@ -1,12 +1,3 @@
-
-
-
-
-
-
-
-
-
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
@@ -44,10 +35,9 @@
   <h1> learning ansible with docker </h1>
   
   <h1> this is vinay  </h1>
-  
+  </form>
 
-  
-</form>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -113,17 +103,16 @@
     <div class="row">
         <div class="col-md-4">
             <h2>About us</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+            <p>This is Vinay Devops engineer</a></p>
         </div>
         <div class="col-md-4">
             <h2>address</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+            <p>#1-1-1-1111</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
             <h2>groups</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <p>Lw group pvt ltd</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
